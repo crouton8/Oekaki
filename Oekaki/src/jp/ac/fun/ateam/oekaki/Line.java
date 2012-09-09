@@ -1,4 +1,4 @@
-package com.example.oekaki;
+package jp.ac.fun.ateam.oekaki;
 
 import java.util.ArrayList;
 

@@ -1,4 +1,4 @@
-package com.example.oekaki;
+package jp.ac.fun.ateam.oekaki;
 
 import java.io.File;
 import java.io.FileOutputStream;
