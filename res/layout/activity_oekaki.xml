@@ -61,7 +61,7 @@
     </LinearLayout>
 
     <com.example.oekaki.CanvasView
-        android:id="@+id/MyView"
+        android:id="@+id/CanvasView"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
 
